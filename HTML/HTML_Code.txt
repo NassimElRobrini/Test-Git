@@ -4,4 +4,8 @@ Mir geht es gut!
 
 Danke Nassim, mir geht es auch gut!
 
+<<<<<<< HEAD
 Jetzt wird es spannend!
+=======
+Was wird jetzt passieren?
+>>>>>>> b7800c533f2a8788fa3f55c2456b9169d1a4c6ae
